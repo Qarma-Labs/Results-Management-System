@@ -15,6 +15,7 @@
     "aws/aws-sdk-php": "^3.357",
     "codeigniter4/framework": "^4.0",
     "dompdf/dompdf": "^3.1",
+    "honeybadger-io/honeybadger-php": "^2.0",
     "league/csv": "^9.22",
     "phpoffice/phpspreadsheet": "^4.2",
     "predis/predis": "^2.3",
